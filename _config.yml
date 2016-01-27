@@ -1,3 +1,7 @@
+name: breinology
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.6129032
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5071685
-  lightness: 0.6003584
-  brandStrength: 0.5053763
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  rhythmicContrast: 0.2473118
-typography_spectrum: 0.6129032
-layout_spectrum: 1
-name: breinology
+    - '#c7b69a'
+    - '#b39e7a'
+    - '#7c6b4d'
+    - '#46412f'
+    - '#29261f'
+  brandStrength: 0.5
+  lightness: 0.5625
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose: []
