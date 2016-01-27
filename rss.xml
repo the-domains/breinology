@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[breinology]]></title>
         <description><![CDATA[breinology]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/breinology/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 11:34:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 11:34:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/breinology/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/26d3c0f0-b9b9-43c0-836a-d864bf2fabec.jpg">]]></description>
+            <link>https://thegrid.ai/breinology/42741608-cb70-46df-b5bc-ace253d7f397/index.html</link>
+            <guid isPermaLink="false">42741608-cb70-46df-b5bc-ace253d7f397</guid>
+            <pubDate>Wed, 27 Jan 2016 11:18:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac11679c-522f-4fdb-bd2f-f09e40b49aba.jpg">]]></description>
-            <link>undefined0dbf4397-6340-417e-a07e-44ac6fc6a7e4/index.html</link>
+            <link>https://thegrid.ai/breinology/0dbf4397-6340-417e-a07e-44ac6fc6a7e4/index.html</link>
             <guid isPermaLink="false">0dbf4397-6340-417e-a07e-44ac6fc6a7e4</guid>
             <pubDate>Wed, 27 Jan 2016 11:16:02 GMT</pubDate>
         </item>
