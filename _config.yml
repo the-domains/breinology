@@ -1,7 +1,7 @@
 name: breinology
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.6129032
+layout_spectrum: 0.50385
+typography_spectrum: 0.59538
 collections:
   - index:
       path: /
